@@ -2,11 +2,11 @@ package lib
 
 import (
 	"fmt"
-	"github.com/hashicorp/terraform-plugin-sdk/acctest"
 	"os"
 	"sync"
 	"testing"
 
+	"github.com/hashicorp/terraform-plugin-sdk/acctest"
 	"github.com/hashicorp/terraform-plugin-sdk/helper/resource"
 	"github.com/hashicorp/terraform-plugin-sdk/terraform"
 )

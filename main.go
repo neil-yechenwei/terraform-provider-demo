@@ -5,10 +5,9 @@ import (
 	"flag"
 	"log"
 
-	"github.com/magodo/terraform-provider-demo/lib"
-
 	"github.com/hashicorp/terraform-plugin-sdk/plugin"
 	"github.com/hashicorp/terraform-plugin-sdk/terraform"
+	"github.com/neil-yechenwei/terraform-provider-demo/lib"
 )
 
 func main() {

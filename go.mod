@@ -1,4 +1,4 @@
-module github.com/magodo/terraform-provider-demo
+module github.com/neil-yechenwei/terraform-provider-demo
 
 go 1.13
 
